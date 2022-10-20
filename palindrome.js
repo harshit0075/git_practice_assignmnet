@@ -4,7 +4,7 @@ let new_str="";
   }
   
   {
-      if(str!=new_str){
+      if(str==new_str){
           console.log("Yes")
       }else{
           console.log("No")
